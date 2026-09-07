@@ -107,4 +107,4 @@ Downloads: [Google Play](https://play.google.com/store/apps/details?id=com.mah85
 
 ## GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1Mahmoud12&theme=default)
