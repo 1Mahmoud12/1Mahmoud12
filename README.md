@@ -3,7 +3,7 @@
 
 Flutter engineer. I ship production iOS and Android apps — marketplaces, delivery, healthcare — and own the work from unclear requirements through store release.
 
-[Email](mailto:mahmoudmdhat852@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mahmoud-medhat-8a4200128) · Remote / relocation
+[Email](mailto:mahmoudmdhat852@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mahmoud-medhat-mahmoud) · Remote / relocation
 
 ## What I work on
 
