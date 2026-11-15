@@ -11,12 +11,6 @@ Flutter engineer. I ship production iOS and Android apps — marketplaces, deliv
 
 Right now: **YouVision** (Warda, Matlop) and **UD-Tech** part-time (UDH, Alter, MLM, Codency).
 
-## Featured apps
-
-**Matlop** — Built a home-service booking app with location-based technician matching, payments, and search/filtering across packages.
-[Google Play](https://play.google.com/store/apps/details?id=com.matlop.service) · [App Store]([https://apps.apple.com/eg/app/takka/id6502396946](https://apps.apple.com/sa/app/matlop-%D9%85%D8%B7%D9%84%D9%88%D8%A8/id6747580868))
-
-
 **Takkeh** — delivery with live maps and in-app chat. 10K+ downloads in the first year.  
 [Google Play](https://play.google.com/store/apps/details?id=com.mah852.takha) · [App Store](https://apps.apple.com/eg/app/takka/id6502396946)
 
